@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_activity2_size">25sp</dimen>
+    <dimen name="image_activity2_width">225dp</dimen>
+    <dimen name="image_activity2_eight">336dp</dimen>
+    <dimen name="loremIpsum_layout_marginTop">16dp</dimen>
+</resources>
